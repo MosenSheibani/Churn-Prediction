@@ -1,6 +1,6 @@
 # Customer Churn Prediction
 
-This project predicts customer churn using a Random Forest Classifier based on transaction data. It includes data preprocessing, model training, evaluation, and a retraining mechanism to ensure model performance. Built as part of [Your Course/Project Name] in May 2025.
+This project predicts customer churn using a Random Forest Classifier based on transaction data. It includes data preprocessing, model training, evaluation, and a retraining mechanism to ensure model performance. Built as part of Churn Prediction Project in April 2024.
 
 ## Features
 - **Data Preprocessing**: Handles missing values using `dropna()` and selects features like transaction count, average transaction amount, days since last transaction, customer age, and account tenure.
@@ -73,4 +73,4 @@ Model saved to models/churn_model_updated.pkl
 MIT License (optional, included for open-source sharing).
 
 ---
-Built by [Your Name] for [Your Course/Project Name], May 2025.
+Built by Mohsen SHeibani  for Churn Predction Project, April 2024.
